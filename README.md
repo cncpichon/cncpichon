@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
   <summary><b>Skills</b></summary>
 </details>
 
-You can view the [SDSS here](https://3dviewer.horizon-simulation.org/3dclouds/SDSS_DR10_segs_graph_points.html)
+You can view the [SDSS's skeleton using our 3dviewer](https://3dviewer.horizon-simulation.org/3dclouds/SDSS_DR10_segs_graph_points.html)
