@@ -12,3 +12,6 @@ You can click the Preview link to take a look at your changes.
   <summary><b>Skills</b></summary>
 </details>
 https://3dviewer.horizon-simulation.org/3dclouds/SDSS_DR10_segs_graph_points.html
+
+
+![pawel-czerwinski-YWIOwHvRBvU-unsplash](https://github.com/cncpichon/cncpichon/assets/52891237/844e3ae1-266d-43dc-ae13-18e5bcfd9b66)
