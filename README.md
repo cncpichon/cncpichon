@@ -12,5 +12,5 @@ You can click the Preview link to take a look at your changes.
   <summary><b>Skills</b></summary>
 </details>
 This is a link to an animation of the 
-[https://3dviewer.horizon-simulation.org](https://3dviewer.horizon-simulation.org/3dclouds/SDSS_DR10_segs_graph_points.html)
+[www.google.com](https://3dviewer.horizon-simulation.org/3dclouds/SDSS_DR10_segs_graph_points.html)
 
