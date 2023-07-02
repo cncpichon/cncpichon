@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Christophe
 - 👀 I’m interested in dynamics
-- 🌱 I’m currently learning julia
+- 🌱 I’m currently learning julia (sloooow progress!)
 - 📫 How to reach me http://www.iap.fr/users/pichon/
 
 <!---
