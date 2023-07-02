@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
   <summary><b>Skills</b></summary>
 </details>
 
-This site was built using [GitHub Pages](https://pages.github.com/)
+This site was built using [SDSS](https://pages.github.com/)
